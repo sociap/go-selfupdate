@@ -1,4 +1,4 @@
-module github.com/sociap/go-selfupdate
+module go-selfupdate
 
 go 1.15
 
